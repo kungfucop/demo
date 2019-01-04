@@ -22,6 +22,8 @@ buildscript {
         threetenbpVersion = "1.3.6"
         daggerVersion = "2.16"
         retrofitVerison = '2.5.0'
+        rxJavaVersion = "1.3.3"
+         rxKotlinVersion = "1.0.0"
     }
     
     repositories {
